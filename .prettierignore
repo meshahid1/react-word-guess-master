@@ -1,0 +1,11 @@
+.env
+node_modules/
+query
+nohup.out
+config/
+.gitignore/
+postgresdata/*
+redis/*
+docker-compose.uml
+Dockerfile
+.dockerignore
